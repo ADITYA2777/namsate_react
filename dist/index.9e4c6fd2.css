@@ -1,3 +1,21 @@
+.header {
+  border: 1px solid #000;
+  justify-content: space-between;
+  margin: 10px;
+  display: flex;
+}
 
+.List-item > ul {
+  list-style-type: none;
+  display: flex;
+}
+
+.List-item > ul > li {
+  padding: 10px;
+}
+
+.logo {
+  height: 100px;
+}
 
 /*# sourceMappingURL=index.9e4c6fd2.css.map */

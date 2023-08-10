@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px;
+    border: 1px solid black;
+}
+.List-item > ul{
+    list-style-type: none;
+    display: flex;
+
+}
+.List-item > ul>li{
+    padding: 10px;
+}
+.logo{
+    height: 100px;
+}
